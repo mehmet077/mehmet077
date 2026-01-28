@@ -1,4 +1,4 @@
-# Selam, ben [Adın Soyadın]! 👋
+# Selam, ben Mehmet Aydın! 👋
 
 ### 🚀 [Ünvanın: Örn. Full-stack Developer / Data Scientist]
 
