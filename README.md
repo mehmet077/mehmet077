@@ -20,15 +20,6 @@ Ağırlıklı olarak **Frontend mimarileri**, **Web tasarım**, **WPF masaüstü
 
 ---
 
-## 📈 GitHub İstatistiklerim
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmet077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet077&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Benimle İletişime Geç
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-aydın-2a120223b)
