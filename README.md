@@ -1,12 +1,13 @@
-# Selam, ben Mehmet Aydın! 👋
+# 👋 Selam, ben Mehmet Aydın!
 
-### 🚀 [Ünvanın: Örn. Full-stack Developer / Data Scientist]
+### 🚀 Full-Stack / Backend Developer
 
-Bir cümleyle ne yaptığını ve neye tutku duyduğunu buraya yazabilirsin. (Örn: Modern web teknolojileriyle ölçeklenebilir uygulamalar geliştirmeyi seviyorum.)
+Modern web teknolojileriyle **ölçeklenebilir**, **performanslı** ve **bakımı kolay** uygulamalar geliştirmeyi seviyorum.  
+Özellikle **backend mimarileri**, **API geliştirme**, **mikroservis yapıları** ve **gerçek zamanlı haberleşme protokolleri** üzerine çalışıyorum.
 
 ---
 
-### 🛠️ Yetkinliklerim
+## 🛠️ Teknik Yetkinliklerim
 
 | Alan | Teknolojiler |
 | :--- | :--- |
@@ -18,7 +19,8 @@ Bir cümleyle ne yaptığını ve neye tutku duyduğunu buraya yazabilirsin. (Ö
 
 ---
 
-### 📈 GitHub İstatistiklerim
+## 📈 GitHub İstatistiklerim
+
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmet077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet077&layout=compact&theme=tokyonight"/>
@@ -26,7 +28,11 @@ Bir cümleyle ne yaptığını ve neye tutku duyduğunu buraya yazabilirsin. (Ö
 
 ---
 
-### 📫 Benimle İletişime Geç
+## 📫 Benimle İletişime Geç
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-aydın-2a120223b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydinmehmeta1@gmail.com)
+
+---
+
+💡 *Yeni teknolojiler öğrenmeyi, gerçek dünya problemlerine yazılım çözümleri üretmeyi ve projeleri sürekli iyileştirmeyi seviyorum.*
